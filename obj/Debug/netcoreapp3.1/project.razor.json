@@ -20554,6 +20554,11 @@
       "FilePath": "c:\\Users\\Johnatas V. Marques\\Desktop\\AspNetMvcGettingStarte\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Johnatas V. Marques\\Desktop\\AspNetMvcGettingStarte\\Views\\Tabuada\\Calcular.cshtml",
+      "TargetPath": "Views\\Tabuada\\Calcular.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"

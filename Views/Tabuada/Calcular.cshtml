@@ -1,0 +1,13 @@
+@{
+    ViewData["Title"] = "Tabuada do 5";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<ul>
+    @foreach (var valor in Model)
+    {
+        <li>@valor</li>
+        
+    }
+</ul>

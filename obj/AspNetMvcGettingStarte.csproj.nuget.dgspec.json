@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Johnatas V. Marques\\Desktop\\AspNetMvcGettingStarte\\AspNetMvcGettingStarte.csproj": {}
+    "C:\\Users\\Johnatas V. Marques\\Desktop\\AspNetMvcGettingStarte\\AspNetMvcGettingStarte.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Johnatas V. Marques\\Desktop\\AspNetMvcGettingStarte\\AspNetMvcGettingStarte.csproj": {
+    "C:\\Users\\Johnatas V. Marques\\Desktop\\AspNetMvcGettingStarte\\AspNetMvcGettingStarte.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Johnatas V. Marques\\Desktop\\AspNetMvcGettingStarte\\AspNetMvcGettingStarte.csproj",
+        "projectUniqueName": "C:\\Users\\Johnatas V. Marques\\Desktop\\AspNetMvcGettingStarte\\AspNetMvcGettingStarte.csproj",
         "projectName": "AspNetMvcGettingStarte",
-        "projectPath": "c:\\Users\\Johnatas V. Marques\\Desktop\\AspNetMvcGettingStarte\\AspNetMvcGettingStarte.csproj",
+        "projectPath": "C:\\Users\\Johnatas V. Marques\\Desktop\\AspNetMvcGettingStarte\\AspNetMvcGettingStarte.csproj",
         "packagesPath": "C:\\Users\\Johnatas V. Marques\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Johnatas V. Marques\\Desktop\\AspNetMvcGettingStarte\\obj\\",
+        "outputPath": "C:\\Users\\Johnatas V. Marques\\Desktop\\AspNetMvcGettingStarte\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Johnatas V. Marques\\AppData\\Roaming\\NuGet\\NuGet.Config",

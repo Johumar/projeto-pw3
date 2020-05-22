@@ -35,3 +35,4 @@ C:\Users\Johnatas V. Marques\Desktop\AspNetMvcGettingStarte\obj\Debug\netcoreapp
 C:\Users\Johnatas V. Marques\Desktop\AspNetMvcGettingStarte\obj\Debug\netcoreapp3.1\AspNetMvcGettingStarte.pdb
 C:\Users\Johnatas V. Marques\Desktop\AspNetMvcGettingStarte\obj\Debug\netcoreapp3.1\AspNetMvcGettingStarte.genruntimeconfig.cache
 C:\Users\Johnatas V. Marques\Desktop\AspNetMvcGettingStarte\obj\Debug\netcoreapp3.1\AspNetMvcGettingStarte.csproj.CopyComplete
+C:\Users\Johnatas V. Marques\Desktop\AspNetMvcGettingStarte\obj\Debug\netcoreapp3.1\Razor\Views\Tabuada\Calcular.cshtml.g.cs
